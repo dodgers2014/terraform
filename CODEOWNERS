@@ -1,1 +1,3 @@
 *.tf  Jenkins*  serverless.yml    @Org/devops
+# The following will be reviewed by DevOps before merging
+*.tf  Jenkins*  serverless.yml    @PatientPopInc/devops
